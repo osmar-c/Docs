@@ -2,5 +2,16 @@
 node_modules/
 
 # Generated files
-files/docs
 package-lock.json
+
+/files/css
+/files/font-awesome
+
+/files/docs*
+/files/*.sh
+/files/ide.*js
+/files/version.txt
+/app/
+
+_*.htm
+~*
